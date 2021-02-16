@@ -57,7 +57,7 @@
           icon: 'mdi-email-outline',
           title: 'Email',
           text:
-            '<a href="mailto:administrador@construheloz.com.mx">administrador@construheloz.com.mx</a>',
+            '<a href="mailto:administracion@construheloz.com.mx">administracion@construheloz.com.mx</a>',
         },
       ],
     }),
